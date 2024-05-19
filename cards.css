@@ -15,7 +15,7 @@
 .card{
     display: inline-block;
     /* max-width: 21rem; */
-    max-width: 30%;
+    width: 25%;
     /* padding: 0.8rem; */
     border-radius: 1rem;
     text-align: center;

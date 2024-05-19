@@ -34,7 +34,7 @@
 }
 
 .image{
-    background-image: url("./pkm.png");
+    background-image: url("https://img.pokemondb.net/sprites/home/normal/bulbasaur.png");
     background-size: cover;
     background-position:center;
     border-radius: 1rem;

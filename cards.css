@@ -27,7 +27,7 @@
     transition: 0.8s ease;
 }
 
-@media (max-width:768px){
+@media all (max-width:768px){
     .card{
         display: block;
     }

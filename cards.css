@@ -34,7 +34,7 @@
 }
 
 .image{
-    background: url("pkm.png");
+    background: url("./pkm.png");
     background-size: cover;
     background-position:center;
     border-radius: 1rem;
@@ -57,6 +57,7 @@ img{
     filter: drop-shadow(10px 10px 5px #222);
     object-fit: cover;
     object-position: bottom;
+    max-width:100%;
     
 }
 

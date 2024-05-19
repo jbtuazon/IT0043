@@ -34,7 +34,7 @@
 }
 
 .image{
-    background: url("./pkm.png");
+    background-image: url("./pkm.png");
     background-size: cover;
     background-position:center;
     border-radius: 1rem;

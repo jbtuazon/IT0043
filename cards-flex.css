@@ -28,6 +28,7 @@
     border-width: 10px;
     /* transition: 0.8s ease; */
     height:auto;
+    flex-grow:1;
     /* background: url("pkm.png");
     background-size: cover;
     background-position:center; */
